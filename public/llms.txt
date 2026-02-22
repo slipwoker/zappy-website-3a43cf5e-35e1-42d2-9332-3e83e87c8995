@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+עמותה לפיתוח מנהיגות קהילתית המעצימה מתנדבים ומחזקת קהילות בישראל. הצטרפו למהפכה החברתית והובילו שינוי משמעותי בסביבתכם עוד היום.
+
+### אודות
+https://example.com/about
+למדו על הדרך שעברנו מרעיון לעמותה מובילה בפיתוח מנהיגות. גלו את הערכים המניעים אותנו ואת ההשפעה שיצרנו בקהילות ברחבי ישראל במשך שנים.
+
+### תוכניות
+https://example.com/programs
+גלו את מגוון התוכניות שלנו לפיתוח מנהיגות קהילתית ורשתות מתנדבים בישראל. תוכניות מותאמות אישית שמכשירות מנהיגים להוביל שינוי אמיתי בקהילה.
+
+### צור קשר
+https://example.com/contact
+מעוניינים להצטרף לרשתות מתנדבים בישראל או לשתף פעולה? צרו קשר עם ארגון מתנדבים קהילתיים המוביל והתחילו את המסע שלכם למנהיגות משמעותית.
+
+### Products
+https://example.com/products
+המוצרים שלנו - אמ"א
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - אמ"א
+
+### Category
+https://example.com/category/:slug
+מוצרים - אמ"א
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
